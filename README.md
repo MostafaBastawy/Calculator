@@ -5,7 +5,7 @@ This was my first application. It makes simple calculations.
 - Packages:
     - math_expressions
 
-## Screenshots
+## Video
 
 https://user-images.githubusercontent.com/81096412/139444348-35a46147-030c-4429-a8d5-2128fce68e54.mp4
 
